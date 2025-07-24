@@ -1,0 +1,29 @@
+# GitHub Pages configuration for Mejona Images CDN
+title: "Mejona Technology Image CDN"
+description: "Optimized images for mejona.in website"
+baseurl: "/mejona-images"
+url: "https://mejonatechnology.github.io"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Exclude files
+exclude:
+  - README.md
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+
+# Image optimization settings
+defaults:
+  - scope:
+      path: "blog-images"
+    values:
+      image: true
+  - scope:
+      path: "works"
+    values:
+      image: true
