@@ -1,0 +1,140 @@
+{
+  "timestamp": "2025-07-24T18:20:10.063Z",
+  "config": {
+    "blog": {
+      "width": 1200,
+      "height": 600,
+      "quality": 85,
+      "format": "webp",
+      "fallback": "png",
+      "targetSize": 400000
+    },
+    "portfolio": {
+      "width": 800,
+      "height": 600,
+      "quality": 80,
+      "format": "webp",
+      "fallback": "png",
+      "targetSize": 250000
+    }
+  },
+  "results": {
+    "blog": [
+      {
+        "file": "ai-agent-revolution-banner.png",
+        "originalSize": 1.9,
+        "webpSize": 0.04,
+        "pngSize": 0.12,
+        "reduction": 93.7
+      },
+      {
+        "file": "ai-marketing-2025-banner.png",
+        "originalSize": 2.69,
+        "webpSize": 0.06,
+        "pngSize": 0.21,
+        "reduction": 92.2
+      },
+      {
+        "file": "ai-workflow-diagram.png",
+        "originalSize": 1.9,
+        "webpSize": 0.04,
+        "pngSize": 0.12,
+        "reduction": 93.7
+      },
+      {
+        "file": "clean-code-standards-banner.png",
+        "originalSize": 1.87,
+        "webpSize": 0.04,
+        "pngSize": 0.16,
+        "reduction": 91.4
+      },
+      {
+        "file": "cybersecurity-threats-banner.png",
+        "originalSize": 2.4,
+        "webpSize": 0.03,
+        "pngSize": 0.14,
+        "reduction": 94.2
+      },
+      {
+        "file": "digital-marketing-mastery-banner.png",
+        "originalSize": 2.18,
+        "webpSize": 0.03,
+        "pngSize": 0.18,
+        "reduction": 91.7
+      },
+      {
+        "file": "software-trends-2025-banner.png",
+        "originalSize": 1.96,
+        "webpSize": 0.04,
+        "pngSize": 0.16,
+        "reduction": 91.8
+      }
+    ],
+    "portfolio": [
+      {
+        "file": "ai-customer-care.png",
+        "originalSize": 1.81,
+        "webpSize": 0.03,
+        "pngSize": 0.09,
+        "reduction": 95
+      },
+      {
+        "file": "corporate.png",
+        "originalSize": 1.86,
+        "webpSize": 0.04,
+        "pngSize": 0.12,
+        "reduction": 93.5
+      },
+      {
+        "file": "crm.png",
+        "originalSize": 1.74,
+        "webpSize": 0.03,
+        "pngSize": 0.11,
+        "reduction": 93.7
+      },
+      {
+        "file": "ecommerce.png",
+        "originalSize": 2.18,
+        "webpSize": 0.03,
+        "pngSize": 0.15,
+        "reduction": 93.1
+      },
+      {
+        "file": "education-career.png",
+        "originalSize": 2.28,
+        "webpSize": 0.03,
+        "pngSize": 0.13,
+        "reduction": 94.3
+      },
+      {
+        "file": "food-delivery.png",
+        "originalSize": 1.96,
+        "webpSize": 0.04,
+        "pngSize": 0.15,
+        "reduction": 92.3
+      },
+      {
+        "file": "hr.png",
+        "originalSize": 1.71,
+        "webpSize": 0.03,
+        "pngSize": 0.09,
+        "reduction": 94.7
+      },
+      {
+        "file": "portfolio.png",
+        "originalSize": 1.86,
+        "webpSize": 0.03,
+        "pngSize": 0.1,
+        "reduction": 94.6
+      }
+    ]
+  },
+  "summary": {
+    "totalFiles": 15,
+    "originalSize": 30.299999999999997,
+    "pngSize": 2.03,
+    "webpSize": 0.54,
+    "pngReduction": 93.3,
+    "webpReduction": 98.2
+  }
+}
